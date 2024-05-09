@@ -1,0 +1,35 @@
+.Sec1-Body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#Sec1-h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+#Sec1-p{
+    font-size: 50px;
+    line-height: 40px;
+    background: #a24eb8;
+    color: #fff;
+    width: max-content;
+    padding: 20px;
+    transform: rotate(-2deg);
+}
+
+#Sec1-span{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#Sec1-button{
+    padding: 10px 19px;
+    background: #0d6efd;
+    border: #0d6efd;
+    border-radius: 4px;
+    font-size: 16px;
+    color: white;
+    font-weight: 500;
+}
