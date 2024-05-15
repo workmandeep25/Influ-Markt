@@ -1,0 +1,98 @@
+.Footer1{
+    padding: 48px 102px;
+    background: rgb(227, 246, 255);
+}
+
+.Get-in-touch{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.Footer1-Para{
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.Footer1-Button{
+    width: 227px;
+    height: 46px;
+    padding: 3px 53px;
+    background: rgb(13, 110, 253);
+    border-radius: 4px;
+    border: none;
+    font-size: 20px;
+    color: white;
+}
+
+.Footer2{
+    padding: 52px 102px;
+    background: black;
+}
+
+.Footer2-part1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.Footer2-part1-Lists{
+
+}
+
+.Footer2-Lists-heading{
+    font-size: 18px;
+    font-weight: 800;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.Footer2-Lists-texts{
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.Footer2-part2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.wingsup-text{
+    color: white;
+}
+
+.social-media-signs{
+    
+}
+
+#Footer-insta-logo{
+    width: 24px;
+    height: 24px;
+    border-radius: 5px;
+}
+
+#Footer-fb-logo{
+    width: 26px;
+    height: 26px;
+    margin-left: 10px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+#Footer-twitter-logo{
+    width: 26px;
+    height: 26px;
+    margin-left: 10px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+hr{
+    height: 1px;
+    border: none;
+    background: white;
+}

@@ -1,0 +1,43 @@
+.Sec4-Body{
+    padding: 48px 102px;
+}
+
+.Smart-Tools{
+    font-size: 50px;
+    font-weight: 700;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.Sec4-Menu{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+}
+
+.Sec4-Menu-Boxes{
+    width: 333px;
+    height: 276px;
+    background: rgb(227, 246, 255);
+    border-radius: 8px;
+    padding: 40px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.Sec4-Logo{
+    width: 60px;
+    height: 60px;
+}
+
+.Sec4-Heading{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 10px 0px;
+}
+
+.Sec4-text{
+    font-size: 18px;
+    font-weight: 400;
+}

@@ -1,0 +1,80 @@
+.Sec5-Body{
+    padding: 48px 102px;
+    background: rgb(255, 193, 7);
+}
+
+.Top-Creator{
+    font-size: 50px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.Sec5-Slides-Menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Sec5-Slides{
+    width: 207px;
+    height: 309px;
+    padding: 20px 20px;
+    background-size: cover;
+    text-align: left;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+#Sec5-Slides1{
+    background-image: url('./images/Slide1.jpg');
+}
+#Sec5-Slides2{
+    background-image: url('./images/Slide4.jpg');
+}
+#Sec5-Slides3{
+    background-image: url('./images/Slide5.jpg');
+}
+#Sec5-Slides4{
+    background-image: url('./images/Slide6.jpg');
+}
+#Sec5-Slides5{
+    background-image: url('./images/Slide7.jpg');
+}
+
+.Sec5-Slides-Name{
+    /* margin-top: 285px; */
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+.Sec5-Insta-Youtube{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 130px;
+}
+
+.Sec5-INsta-Logo{
+    width: 18px;
+    height: 18px;
+}
+
+.Sec5-Insta-Followers{
+    font-size: 13px;
+    font-weight: 400;
+    color: white;
+}
+
+.Sec5-Youtube-Logo{
+    width: 18px;
+    height: 18px;
+}
+
+.Sec5-Youtube-Followers{
+    font-size: 13px;
+    font-weight: 400;
+    color: white;
+}
